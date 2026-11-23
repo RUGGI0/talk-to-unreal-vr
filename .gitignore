@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+VRProject/.vs/
+VRProject/Binaries/
+VRProject/DerivedDataCache/
+VRProject/Intermediate/
+VRProject/Saved/
+VRProject/*.sln

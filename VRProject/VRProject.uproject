@@ -1,0 +1,12 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.6",
+  "Description": "Progetto Virtual Reality per il collegamento locale Unreal-Python.",
+  "Modules": [
+    {
+      "Name": "VRProject",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
